@@ -21,5 +21,5 @@ Tiendas con Alura Latam
 - Pandas
 
 ## Autores
-| [<img src="[(https://github.com/lgbmdj77/Tiendas/blob/main/Foto%20de%20Luisana%20Burgos.jpg)]" width=115><br><sub>Luisana Burgos</sub>]((https://github.com/lgbmdj77/Tiendas/blob/main/Foto%20de%20Luisana%20Burgos.jpg)) | 
+| [<img src="https://github.com/lgbmdj77/Tiendas/blob/main/Foto%20de%20Luisana%20Burgos.jpg" width=115><br><sub>Luisana Burgos</sub>]((https://github.com/lgbmdj77/)) | 
 |  :---: | 
