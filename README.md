@@ -5,7 +5,7 @@ Tiendas con Alura Latam
 
 [Funcionalidades del Proyecto](#hammerfuncionalidades-del-proyecto)
 
-[Tecnologias Utilizadas](#%EF%B8%8Ftecnologias-utilizadas)
+[Tecnologías Utilizadas](#%EF%B8%8Ftecnologias-utilizadas)
 
 [Autores](#autores)
 
