@@ -3,11 +3,11 @@
 Tiendas con Alura Latam
 ## Índice
 
-*[Funcionalidades del Proyecto](#hammerfuncionalidades-del-proyecto)
+[Funcionalidades del Proyecto](#hammerfuncionalidades-del-proyecto)
 
-*[Tecnologias Utilizadas](#%EF%B8%8Ftecnologias-utilizadas)
+[Tecnologias Utilizadas](#%EF%B8%8Ftecnologias-utilizadas)
 
-*[Autores](#autores)
+[Autores](#autores)
 
 ## :hammer:Funcionalidades del Proyecto
 
